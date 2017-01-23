@@ -1,4 +1,4 @@
 # Encrypt-Lib
 Python Library for encryption
 
-Will expand in a few days...
+Has KeyBase Encryption ATM. Will add more later.
