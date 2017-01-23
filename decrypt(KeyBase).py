@@ -76,4 +76,4 @@ output =''
 for i in outputlist:
 	output += str(i)
 
-print 'ENCRYPTED TEXT:', output
+print 'DECRYPTED TEXT:', output
