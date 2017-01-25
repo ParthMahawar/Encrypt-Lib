@@ -1,6 +1,6 @@
 tempkey = int(raw_input('Enter Key: '))
 base = int(raw_input('Enter Base: '))
-text = raw_input('Text to be encrypted: ')
+text = raw_input('Text to be decrypted: ')
 
 def basechange(num, bas):
 	nums = []
