@@ -1,4 +1,4 @@
 # Encrypt-Lib
 Python Library for encryption
 
-Has KeyBase and ROT13 Encryption ATM. Will add more later.
+Has custom-rolled encryption. Should probably not be used in production. Made as a small side project.
